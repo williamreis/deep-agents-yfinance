@@ -1,0 +1,6 @@
+python-dotenv
+deepagents
+langchain-openai
+yfinance
+gradio
+langchain-core
